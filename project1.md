@@ -56,7 +56,7 @@ mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password by 'm
 
 ![img](img/mysql_secure_installation.png)
 
-## STEP 3:  INSTALL AND CONFIGURE MYSQL CLIENT ON SERVER B
+## STEP 3:  INSTALL AND CONFIGURE MYSQL CLIENT ON SERVER A
 
 On the AWS client instance(mysql-cleint), install MySQL client using the command below:
 
