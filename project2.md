@@ -502,4 +502,3 @@ Access from your browser the link to your WordPress <http://3.235.250.52/>. Then
 Log into Wordpress to confirm setup
 
 ![wordpress](./img/wordpress.png)
-
